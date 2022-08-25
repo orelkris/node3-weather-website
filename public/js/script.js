@@ -1,5 +1,3 @@
-// alert('Client side JavaScript file is loaded');
-
 const address = document.getElementById('address');
 const submit = document.getElementById('submit');
 const output = document.getElementById('weather-output');
