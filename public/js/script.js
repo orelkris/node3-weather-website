@@ -31,6 +31,7 @@ function messageHtml(message) {
   outputPar1.textContent = message;
   outputPar2.textContent = '';
   outputPar3.textContent = '';
+  outputPar4.textContent = '';
 }
 
 function resetInput(input) {
