@@ -22,6 +22,8 @@ p {
 img {
   width: 20rem;
   height: auto;
+  flex: 2;
+  object-fit: contain;
 }
 
 /* APP */
@@ -92,6 +94,18 @@ nav a {
 /* help */
 .help--message {
   flex: 2;
+}
+
+/* about */
+.about--content {
+  display: flex;
+  justify-content: center;
+}
+
+.about--content p {
+  text-align: center;
+  max-width: 60%;
+  margin: 0;
 }
 
 /* footer */
