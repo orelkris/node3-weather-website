@@ -1,6 +1,5 @@
 const address = document.getElementById('address');
 const submit = document.getElementById('submit');
-const output = document.getElementById('weather-output');
 const outputPar1 = document.querySelector('#weather-output p:first-child');
 const outputPar2 = document.querySelector('#weather-output p:nth-child(2)');
 const outputPar3 = document.querySelector('#weather-output p:nth-child(3)');
